@@ -9,7 +9,7 @@ permalink:        pretty
 title:            tobier
 tagline:          'The blog of Tobias Eriksson'
 description:      'I make stuff, and sometimes blog about it.'
-url:              http://hyde.getpoole.com
+url:              https://tobier.github.io
 baseurl:          /
 
 paginate:         5
