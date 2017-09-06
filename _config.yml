@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            tobier
+tagline:          'The blog of Tobias Eriksson'
+description:      'I make stuff, and sometimes blog about it.'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+paginate:         5
+
+# Custom vars
+plugins: [jekyll-paginate]
+
+github:           https://github.com/tobier
+linkedin:         https://www.linkedin.com/in/tobier
